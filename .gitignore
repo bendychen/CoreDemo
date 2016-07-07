@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/CoreDemo/bin/Release/netcoreapp1.0
+/src/CoreDemo/bin/Debug/netcoreapp1.0
+/src/CoreDemo/Properties/PublishProfiles
+/src/CoreDemo/obj
+/.vs/config
